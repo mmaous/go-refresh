@@ -39,15 +39,12 @@ This will execute the `main.go` file.
 
 ## Refresh Steps/Chapters
 
-1. **Review Basics**: Revisit Go syntax, variables, and data types.
-2. **Packages and Imports**: Work with packages and imports for code organization.
-3. **Functions**: Practice function declarations and usage.
-4. **Structs and Interfaces**: Explore structs and interfaces for data organization.
-5. **Concurrency**: Experiment with Goroutines and Channels for concurrent programming.
-6. **Testing**: Write unit tests using the `testing` package.
-7. **Error Handling**: Implement effective error handling strategies.
-8. **HTTP and Web**: Build a simple HTTP server and handle web requests.
-9. **Database Interaction**: Connect to a database, perform CRUD operations.
-10. **Explore Third-party Libraries**: Experiment with popular Go libraries for various use cases.
+1. **Review Basics**: Revisit Go syntax, data types, variables, packages, functions, structs and interfaces.
+2. **Concurrency**: Experiment with Goroutines and Channels for concurrent programming.
+3. **Testing**: Write unit tests using the `testing` package.
+4. **Error Handling**: Implement effective error handling strategies.
+5. **HTTP and Web**: Build a simple HTTP server and handle web requests.
+6. **Database Interaction**: Connect to a database, perform CRUD operations.
+7. **Explore Third-party Libraries**: Experiment with popular Go libraries for various use cases.
 
 Happy coding and enjoy refreshing your Go skills! 🚀
