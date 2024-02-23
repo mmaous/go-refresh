@@ -1,3 +1,3 @@
-module github.com/mmaous/freshen-go
+module github.com/mmaous/go-refresh
 
 go 1.20
