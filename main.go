@@ -27,4 +27,10 @@ func main() {
 	.\main.go:15:4: undefined: b.sayHello
 	.\main.go:16:38: undefined: b.privateKey
 	*/
+
+	// --------------------
+
+	RandomCar := b.AudiQ8
+	fmt.Printf("Car{number: non-accessible, Model: %s, Color: %s, DistanceInKm: %.2f}", RandomCar.Model, RandomCar.Color, RandomCar.DistanceInKm)
+	// output: Car{number: non-accessible, Model: Audi Q8, Color: Matte-black, DistanceInKm: 1205.60}
 }
