@@ -18,13 +18,13 @@ func main() {
 	Your Public key is your-public-key
 	*/
 
-	// b.SayHello()
+	// b.sayHello()
 	// fmt.Println("Your Public key is", b.privateKey)
-	// output
+	// output (crashes)
 	/**
 	> go run .\main.go
 	# command-line-arguments
-	.\main.go:15:4: undefined: b.SayHello
+	.\main.go:15:4: undefined: b.sayHello
 	.\main.go:16:38: undefined: b.privateKey
 	*/
 }
