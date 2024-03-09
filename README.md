@@ -41,7 +41,7 @@ This will execute the `main.go` file.
 
 1. **Review Basics**: Revisit Go syntax, data types, variables, packages, functions, structs and interfaces.
 2. **Concurrency**: Experiment with Goroutines and Channels for concurrent programming.
-3. **Testing**: Write unit tests using the `testing` package.
+3. **Testing**: Write unit tests.
 4. **Error Handling**: Implement effective error handling strategies.
 5. **HTTP and Web**: Build a simple HTTP server and handle web requests.
 6. **Database Interaction**: Connect to a database, perform CRUD operations.
